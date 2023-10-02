@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  font-family: "Kanit", sans-serif;
+  font-size: 45px;
+}
+span {
+  color: #a3c1ee;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+}
